@@ -1,3 +1,9 @@
 # LITA-CLASS-DOCUMENTATION
 This is where  I want to put my first project while learning data analysis with LITA  incubator
 ### project title supermaket sales analysis
+### Project over view (Preview)
+Data sources
+
+
+
+
