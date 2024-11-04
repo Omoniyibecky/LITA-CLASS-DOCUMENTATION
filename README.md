@@ -1,11 +1,13 @@
-# LITA-CLASS-DOCUMENTATION
-This is where  I want to put my first project while learning data analysis with LITA  incubator
-### project title supermaket sales analysis
+# LITA-CLASS-PROJECT
+
+### project title SALES ANALYSIS 
 ### Project over view (Preview)
-### Data sources
 
-Tools used e.g;
+## Tools for Sales Analysis
 
+1. Spreadsheets , Excel FO
+3. Business Intelligence Tools Power BI)
+4. SQL
  .MS EXCEL
 .data cleaning
 2. data visualization
